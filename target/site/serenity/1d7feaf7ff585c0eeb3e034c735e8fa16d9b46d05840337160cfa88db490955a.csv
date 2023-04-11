@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Verificar login en la pagina de fortesza con el usuario","Verificar que si se ingresa un usuario que no es correcto no permita hacer el login","SUCCESS","2023-04-11T09:58:13.669-05:00[America/Bogota]","0.0","12.17"
